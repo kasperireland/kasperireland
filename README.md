@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I own an organization called Swivro.
-### I am a frontend and backend developer, I mostly use HTML, C#, PHP, Javascript, VB.NET, NodeJS, and Electron, but i often tinker with much more languages.  I am a graphic designer that uses Photoshop, and I am still learning, im pretty much an intermediate beginner.  Have any questions?  Feel free to email me at webmaster@swivro.net
-
+### I own a company called Swivro.
+### I am a frontend and backend developer.
+### and i also don't have anything else to tell you.
 
 <!--
 **kasperireland/kasperireland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
