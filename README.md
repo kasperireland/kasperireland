@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I own a company called Swivro.
-### I am a frontend and backend developer.
+### I own a company called Swivro and Phobos Aerospace.
+### I am a developer & amateur aerospace engineer.
 ### and i also don't have anything else to tell you.
 
 <!--
