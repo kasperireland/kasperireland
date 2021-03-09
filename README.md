@@ -1,8 +1,4 @@
 ### Hi there 👋
-### I own a company called Swivro and Phobos Aerospace.
-### I am a developer & amateur aerospace engineer.
-### and i also don't have anything else to tell you.
-
 <!--
 **kasperireland/kasperireland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
