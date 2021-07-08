@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on Speaklink; a matrix client powered by Matrix & Element. It's goal is to simplify communications on the internet while having top-notch security, and being privacy-oriented. It is currently the most secure chat/communications platform on the internet (excluding Matrix of course, since it runs on Matrix!)
+
+⚡ I've owned and have been managing Swivro since 2016, accessible at swivro.net
+
+📫 You can reach me via the Swivro support email at support@swivro.com which will get forwarded to my Gmail, and then I will reply to you from my Gmail.
 <!--
 **kasperireland/kasperireland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
